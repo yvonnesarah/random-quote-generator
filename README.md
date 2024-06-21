@@ -8,6 +8,7 @@ N/A
 
 ## Technologies Used
 Built with:
+* HTML
 * CSS
 * JavaScript
 * https://api.quotable.io/random API
