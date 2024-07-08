@@ -6,6 +6,11 @@ The Random Quote Generator Web App is a sleek and modern random quote generator 
 ## Prerequisites
 N/A
 
+## Features
+* Generate random quotes with a button click.
+* Display the quote along with the author's name.
+* Responsive design for mobile and desktop devices.
+
 ## Technologies Used
 Built with:
 * HTML
@@ -17,7 +22,9 @@ Built with:
 N/A
 
 ## Usage
-N/A
+* Open the Random Quote Generator web application in your browser.
+* Click the "Get a Quote" button to diplay a new random quote.
+* View the generated quote along with the author's name.
 
 ## Project Link
 Application can can be viewed here: 
